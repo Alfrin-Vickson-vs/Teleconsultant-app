@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "TeleConsultation App",
+    "slug": "teleconsult-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the camera for video consultations.",
+        "NSMicrophoneUsageDescription": "This app uses the microphone for audio consultations."
+      }
+    },
+    "android": {
+      "backgroundColor": "#ffffff",
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO",
+        "MODIFY_AUDIO_SETTINGS",
+        "INTERNET",
+        "CAMERA",
+        "RECORD_AUDIO",
+        "MODIFY_AUDIO_SETTINGS",
+        "INTERNET"
+      ],
+      "package": "com.alfrin_vickson.teleconsultapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

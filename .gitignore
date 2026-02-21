@@ -1,0 +1,26 @@
+node_modules/
+.expo/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo
+.expo/*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Native
+# android/
+# ios/
+
+# If you want to keep your prebuilt folders, comment the above lines out. 
+# For now, I'll include them since we customized the android folder.
+
+# Mac
+.DS_Store
