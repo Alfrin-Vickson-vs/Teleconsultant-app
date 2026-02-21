@@ -29,6 +29,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "44aa83bb-7038-4918-839e-172df5d8cb72"
+      }
+    },
+    "owner": "alfrin_vickson"
   }
 }
