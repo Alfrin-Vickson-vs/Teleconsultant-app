@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TeleConsultation App",
-    "slug": "teleconsult-app",
+    "name": "Teleconsultant App",
+    "slug": "teleconsultant-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -32,7 +32,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "44aa83bb-7038-4918-839e-172df5d8cb72"
+        "projectId": "e7ba4851-4c79-415b-98df-4e3c5fd6536b"
       }
     },
     "owner": "alfrin_vickson"
